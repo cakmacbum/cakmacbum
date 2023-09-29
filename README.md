@@ -1,7 +1,7 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/948/440/1012/linux-kali-linux-nethunter-photoshop-dragon-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Yusuf Sağlamcı</h1>
-<h3 align="center">I am a young Turkish individual striving to improve myself in the fields of cybersecurity and software development.</h3>
+<h3 align="center">I am a young Turkish individual striving to improve myself in the fields of cybersecurity and software development(All the projects I have undertaken are for the purpose of self-improvement).</h3>
 
 - 📫 How to reach me **iletisim.ysaglamci@gmail.com**
 
